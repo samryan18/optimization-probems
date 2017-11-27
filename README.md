@@ -13,7 +13,7 @@ $ title Cargo Problem
 
 Sets
          i   compartments   / front, center, rear /
-         j   cargoes   / c1, c2, c3, c4 /
+         j   cargoes   / c1 * c4 /
 
 Parameters
        weight(i)  weight capacity for compartment i
