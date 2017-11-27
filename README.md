@@ -1,6 +1,9 @@
 # GAMS
 Optimization code
 
+***
+Example of a basic GAMS program:
+
 ```GAMS
 $ title Cargo Problem
 
